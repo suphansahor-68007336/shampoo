@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ddh-fresh-shampoo",
+    "name": "แชมพูสระผม สูตร Fresh",
+    "mood": "fresh",
+    "type": "shampoo",
+    "size": "250ml",
+    "price": 199,
+    "image": "file:///C:/Users/5-903/Downloads/ขวดสีเขียว.jpeg",
+    "description": "แชมพูทำความสะอาดเส้นผมอย่างล้ำลึก พร้อมปลุกความสดชื่นให้หนังศีรษะเบาสบาย ตื่นตัว และสะอาดหมดจดตลอดวัน"
+  },
+  {
+    "id": "ddh-fresh-conditioner",
+    "name": "ครีมนวดผม สูตร Fresh",
+    "mood": "fresh",
+    "type": "conditioner",
+    "size": "250ml",
+    "price": 199,
+    "image": "file:///C:/Users/5-903/Downloads/ขวดสีเขียว.jpeg",
+    "description": "ครีมนวดผมเนื้อบางเบาที่ช่วยฟื้นบำรุงให้ผมนุ่มลื่นไม่พันกัน โดยไม่ทิ้งความเหนอะหนะ คงความรู้สึกโปร่งสบายไว้บนเส้นผม"
+  },
+  {
+    "id": "ddh-sweet-shampoo",
+    "name": "แชมพูสระผม สูตร Sweet",
+    "mood": "sweet",
+    "type": "shampoo",
+    "size": "250ml",
+    "price": 199,
+    "image": "file:///C:/Users/5-903/Downloads/ขวดสีม่วง.jpeg",
+    "description": "แชมพูสูตรอ่อนโยนที่ช่วยทำความสะอาดเส้นผมอย่างนุ่มนวล พร้อมทิ้งกลิ่นหอมหวานละมุนชวนให้รู้สึกอบอุ่นและผ่อนคลาย"
+  },
+  {
+    "id": "ddh-sweet-conditioner",
+    "name": "ครีมนวดผม สูตร Sweet",
+    "mood": "sweet",
+    "type": "conditioner",
+    "size": "250ml",
+    "price": 199,
+    "image": "file:///C:/Users/5-903/Downloads/ขวดสีม่วง.jpeg",
+    "description": "ครีมนวดผมที่ช่วยเติมความชุ่มชื้นให้เส้นผมนุ่มสลวยน่าสัมผัส พร้อมล็อกกลิ่นหอมหวานอ่อนๆ ให้อยู่กับคุณไปตลอดวัน"
+  }
+]
